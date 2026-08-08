@@ -1,0 +1,28 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\development\\helpfulfunctions\\module.helpfulfunctions.gen.3_of_3.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\intermediate\\build\\win64\\interaction_with_als\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\development\\helpfulfunctions\\definitions.helpfulfunctions.h",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\jacobmotionwarpingcomponent.gen.cpp",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\jacobmotionwarpingcomponent.h",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\als_structuresandenumscpp.h",
+            "d:\\program files\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\datatable.h",
+            "d:\\program files\\games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\datatableutils.h",
+            "d:\\program files\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\datatable.generated.h",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\als_structuresandenumscpp.generated.h",
+            "d:\\program files\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\curves\\curvevector.h",
+            "d:\\program files\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\curvevector.generated.h",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\jacobmotionwarpingcomponent.generated.h",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\jakubw_asyncfunctions.gen.cpp",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\jakubw_asyncfunctions.h",
+            "d:\\program files\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
+            "d:\\program files\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\blueprintasyncactionbase.generated.h",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\jakubw_asyncfunctions.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

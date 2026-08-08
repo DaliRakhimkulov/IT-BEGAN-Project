@@ -1,0 +1,33 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\kubac\\documents\\unreal projects\\testdoarmour\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\development\\helpfulfunctions\\module.helpfulfunctions.gen.2_of_3.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kubac\\documents\\unreal projects\\testdoarmour\\intermediate\\build\\win64\\testdoarmoureditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\kubac\\documents\\unreal projects\\testdoarmour\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\development\\helpfulfunctions\\definitions.helpfulfunctions.h",
+            "c:\\users\\kubac\\documents\\unreal projects\\testdoarmour\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\cpp_dynamicclimbingcomponent.gen.cpp",
+            "c:\\users\\kubac\\documents\\unreal projects\\testdoarmour\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\cpp_dynamicclimbingcomponent.h",
+            "c:\\users\\kubac\\documents\\unreal projects\\testdoarmour\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\als_structuresandenumscpp.h",
+            "d:\\program files\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\datatable.h",
+            "d:\\program files\\games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\datatableutils.h",
+            "d:\\program files\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\datatable.generated.h",
+            "c:\\users\\kubac\\documents\\unreal projects\\testdoarmour\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\als_structuresandenumscpp.generated.h",
+            "c:\\users\\kubac\\documents\\unreal projects\\testdoarmour\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\cpp_dynamicclimbingcomponent.generated.h",
+            "c:\\users\\kubac\\documents\\unreal projects\\testdoarmour\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\cpp_falldamageandsliding.gen.cpp",
+            "c:\\users\\kubac\\documents\\unreal projects\\testdoarmour\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\cpp_falldamageandsliding.h",
+            "c:\\users\\kubac\\documents\\unreal projects\\testdoarmour\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\cpp_falldamageandsliding.generated.h",
+            "c:\\users\\kubac\\documents\\unreal projects\\testdoarmour\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\cpp_matchedmontagecomponent.gen.cpp",
+            "c:\\users\\kubac\\documents\\unreal projects\\testdoarmour\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\cpp_matchedmontagecomponent.h",
+            "d:\\program files\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\curves\\curvevector.h",
+            "d:\\program files\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\curvevector.generated.h",
+            "c:\\users\\kubac\\documents\\unreal projects\\testdoarmour\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\cpp_matchedmontagecomponent.generated.h",
+            "c:\\users\\kubac\\documents\\unreal projects\\testdoarmour\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\helpfulfunctions.init.gen.cpp",
+            "c:\\users\\kubac\\documents\\unreal projects\\testdoarmour\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\helpfulfunctionsbplibrary.gen.cpp",
+            "c:\\users\\kubac\\documents\\unreal projects\\testdoarmour\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\helpfulfunctionsbplibrary.h",
+            "c:\\users\\kubac\\documents\\unreal projects\\testdoarmour\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\helpfulfunctionsbplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

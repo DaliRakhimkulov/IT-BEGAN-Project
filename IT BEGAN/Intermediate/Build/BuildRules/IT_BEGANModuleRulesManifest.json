@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\IT BEGAN (АККСЕЛЕРАТОР DOOMERS)\\ИЗНАЧАЛЬНЫЙ ПРОЕКТ\\WI_ALS\\Plugins\\HelpfulFunctions\\Source\\HelpfulFunctions\\HelpfulFunctions.Build.cs",
+		"D:\\IT BEGAN (АККСЕЛЕРАТОР DOOMERS)\\ИЗНАЧАЛЬНЫЙ ПРОЕКТ\\WI_ALS\\Plugins\\JakubAnimNodes\\Source\\JakubAnimNodesTool\\JakubAnimNodesTool.Build.cs",
+		"D:\\IT BEGAN (АККСЕЛЕРАТОР DOOMERS)\\ИЗНАЧАЛЬНЫЙ ПРОЕКТ\\WI_ALS\\Plugins\\JakubAnimNodes\\Source\\JakubAnimNodes\\JakubAnimNodes.Build.cs"
+	],
+	"EngineVersion": "5.8.1"
+}

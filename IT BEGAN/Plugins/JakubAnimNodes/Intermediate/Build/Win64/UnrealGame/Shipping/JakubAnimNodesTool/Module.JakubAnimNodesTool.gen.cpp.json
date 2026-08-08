@@ -1,0 +1,33 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\wi_als\\plugins\\jakubanimnodes\\intermediate\\build\\win64\\unrealgame\\shipping\\jakubanimnodestool\\module.jakubanimnodestool.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\wi_als\\intermediate\\build\\win64\\it_began\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\wi_als\\plugins\\jakubanimnodes\\intermediate\\build\\win64\\unrealgame\\shipping\\jakubanimnodestool\\definitions.jakubanimnodestool.h",
+            "d:\\wi_als\\plugins\\jakubanimnodes\\intermediate\\build\\win64\\unrealgame\\inc\\jakubanimnodestool\\jakubanimnodestool.init.gen.cpp",
+            "d:\\wi_als\\plugins\\jakubanimnodes\\intermediate\\build\\win64\\unrealgame\\inc\\jakubanimnodestool\\jwan_layerblendinglogic.gen.cpp",
+            "d:\\wi_als\\plugins\\jakubanimnodes\\source\\jakubanimnodestool\\public\\jwan_layerblendinglogic.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\animation\\animdata\\bonemaskfilter.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\bonemaskfilter.generated.h",
+            "d:\\wi_als\\plugins\\jakubanimnodes\\intermediate\\build\\win64\\unrealgame\\inc\\jakubanimnodestool\\jwan_layerblendinglogic.generated.h",
+            "d:\\wi_als\\plugins\\jakubanimnodes\\intermediate\\build\\win64\\unrealgame\\inc\\jakubanimnodestool\\jwan_modifylayeringlogic.gen.cpp",
+            "d:\\wi_als\\plugins\\jakubanimnodes\\source\\jakubanimnodestool\\public\\jwan_modifylayeringlogic.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\animation\\inputscalebias.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\animation\\animinstanceproxy.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\animation\\animsync.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\animation\\animsyncscope.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\animation\\activestatemachinescope.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\activestatemachinescope.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\animinstanceproxy.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\inputscalebias.generated.h",
+            "d:\\wi_als\\plugins\\jakubanimnodes\\intermediate\\build\\win64\\unrealgame\\inc\\jakubanimnodestool\\jwan_modifylayeringlogic.generated.h",
+            "d:\\wi_als\\plugins\\jakubanimnodes\\intermediate\\build\\win64\\unrealgame\\inc\\jakubanimnodestool\\myanimnode.gen.cpp",
+            "d:\\wi_als\\plugins\\jakubanimnodes\\source\\jakubanimnodestool\\public\\myanimnode.h",
+            "d:\\wi_als\\plugins\\jakubanimnodes\\intermediate\\build\\win64\\unrealgame\\inc\\jakubanimnodestool\\myanimnode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

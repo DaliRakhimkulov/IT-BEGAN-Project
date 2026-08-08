@@ -1,0 +1,33 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\wi_als\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\shipping\\helpfulfunctions\\module.helpfulfunctions.gen.2_of_3.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\wi_als\\intermediate\\build\\win64\\it_began\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\wi_als\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\shipping\\helpfulfunctions\\definitions.helpfulfunctions.h",
+            "d:\\wi_als\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\cpp_dynamicclimbingcomponent.gen.cpp",
+            "d:\\wi_als\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\cpp_dynamicclimbingcomponent.h",
+            "d:\\wi_als\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\als_structuresandenumscpp.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\datatable.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\datatableutils.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\datatable.generated.h",
+            "d:\\wi_als\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\als_structuresandenumscpp.generated.h",
+            "d:\\wi_als\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\cpp_dynamicclimbingcomponent.generated.h",
+            "d:\\wi_als\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\cpp_falldamageandsliding.gen.cpp",
+            "d:\\wi_als\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\cpp_falldamageandsliding.h",
+            "d:\\wi_als\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\cpp_falldamageandsliding.generated.h",
+            "d:\\wi_als\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\cpp_matchedmontagecomponent.gen.cpp",
+            "d:\\wi_als\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\cpp_matchedmontagecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\curves\\curvevector.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\curvevector.generated.h",
+            "d:\\wi_als\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\cpp_matchedmontagecomponent.generated.h",
+            "d:\\wi_als\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\helpfulfunctions.init.gen.cpp",
+            "d:\\wi_als\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\helpfulfunctionsbplibrary.gen.cpp",
+            "d:\\wi_als\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\helpfulfunctionsbplibrary.h",
+            "d:\\wi_als\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\helpfulfunctionsbplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

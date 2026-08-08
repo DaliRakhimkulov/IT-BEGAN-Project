@@ -1,0 +1,33 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\development\\helpfulfunctions\\module.helpfulfunctions.gen.2_of_3.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\intermediate\\build\\win64\\interaction_with_als\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\development\\helpfulfunctions\\definitions.helpfulfunctions.h",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\cpp_dynamicclimbingcomponent.gen.cpp",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\cpp_dynamicclimbingcomponent.h",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\als_structuresandenumscpp.h",
+            "d:\\program files\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\datatable.h",
+            "d:\\program files\\games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\datatableutils.h",
+            "d:\\program files\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\datatable.generated.h",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\als_structuresandenumscpp.generated.h",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\cpp_dynamicclimbingcomponent.generated.h",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\cpp_falldamageandsliding.gen.cpp",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\cpp_falldamageandsliding.h",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\cpp_falldamageandsliding.generated.h",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\cpp_matchedmontagecomponent.gen.cpp",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\cpp_matchedmontagecomponent.h",
+            "d:\\program files\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\curves\\curvevector.h",
+            "d:\\program files\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\curvevector.generated.h",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\cpp_matchedmontagecomponent.generated.h",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\helpfulfunctions.init.gen.cpp",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\helpfulfunctionsbplibrary.gen.cpp",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\helpfulfunctionsbplibrary.h",
+            "d:\\ue - projects\\ue-5\\iwals (version 2.9) ue5\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\helpfulfunctionsbplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
